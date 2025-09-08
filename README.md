@@ -155,7 +155,7 @@ By completing this program, you will:
 
 ## License
 
-This educational content is provided under the MIT License. See LICENSE file for details.
+This educational content is provided under the GPL License. See LICENSE file for details.
 
 ---
 
